@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of a sad tragedy by Prince Griffin at Sayton, neere Chester: and his severall attempts against the Lady Causely. And the bloody murther for which he is fled into Scotland : and a copy of a letter from His Excellency Sir Thomas Fairfax. With a petition from divers collonels and other officers under Major Generall Laughorne, to the House of Commons.</title>
+            <author>Jones, George, of Chester.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87627</idno>
+            <idno type="STC">Wing J942</idno>
+            <idno type="STC">Thomason E431_12</idno>
+            <idno type="STC">ESTC R206113</idno>
+            <idno type="EEBO-CITATION">99865293</idno>
+            <idno type="PROQUEST">99865293</idno>
+            <idno type="VID">161508</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161508)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E431[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of a sad tragedy by Prince Griffin at Sayton, neere Chester: and his severall attempts against the Lady Causely. And the bloody murther for which he is fled into Scotland : and a copy of a letter from His Excellency Sir Thomas Fairfax. With a petition from divers collonels and other officers under Major Generall Laughorne, to the House of Commons.</title>
+                  <author>Jones, George, of Chester.</author>
+                  <author>Fairfax, Thomas, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.C. and A.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With woodcut title-page illustration.</note>
+                  <note>Annotation on Thomason copy: "March 8th 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seduction --  England --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+               <term>Soldiers --  England --  Pay, allowances, etc. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161508:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <p>A Letter of a ſad Tragedy by Prince GRIF<g ref="char:EOLhyphen"/>FIN at <hi>Sayton,</hi> neere <hi>Cheſter:</hi> And his ſeverall attempts againſt the Lady <hi>Cauſely.</hi>
+            </p>
+            <p>
+               <hi>And the bloody murther for which he is fled into</hi> Scotland: AND A Copy of a Letter from his Excellency Sir <hi>THOMAS FAIRFAX.</hi>
+            </p>
+            <p>WITH A Petition from divers Collonels and other Officers under Ma<g ref="char:EOLhyphen"/>jor Generall <hi>Laughorne,</hi> to the Houſe of Commons.</p>
+            <figure>
+               <p>
+                  <add>merh 8<hi rend="sup">th</hi>
+                  </add>
+               </p>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for A. C. and A. W. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161508:2"/>
+            <!-- PDF PAGE 52 -->
+            <pb n="1" facs="tcp:161508:2"/>
+            <!-- PDF PAGE 52 -->
+            <head>The Copy of a LETTER Concerning Prince GRIFFINS attempt a<g ref="char:EOLhyphen"/>gainſt the Lady <hi>Caufley,</hi> in <hi>Cheſhire.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>THough your <hi>London</hi> Ladies have been ſo abuſed by Prince <hi>Griffin,</hi> who was wont to out-face his wretched acts at <hi>London,</hi> yet his late proceedings here hath made him to flye his Country.</p>
+            <p>He being lately at the City of <hi>Cheſter,</hi> took to him<g ref="char:EOLhyphen"/>ſelfe thoughts of ſurprizing the chaſtity of the Lady <hi>Caufley,</hi> Sir <hi>Hugh Caufleys</hi> wif, (a very vertuous, &amp; god<g ref="char:EOLhyphen"/>ly woman) the prime beauty of theſe parts, by repute.</p>
+            <p>Upon his addreſſe, to her, this noble Lady abhor<g ref="char:EOLhyphen"/>ring him, ſhewed as much ſlighting of his immoderate offers as could be, and had him exceedingly in diſdain, being troubled at his applications to her.</p>
+            <p>Prince <hi>Griffin,</hi> ſeeing that hee could not finde any entertainment, or incouragement by further perſonall ſolicitation to her, fell upon another way to attempt her chaſtity by alluring ſnares.</p>
+            <p>And hee ſent unto her, to her husbands houſe at
+<pb n="2" facs="tcp:161508:3"/>
+               <!-- PDF PAGE 53 -->
+               <hi>Sayton</hi> on the Hill, ſome three miles from <hi>Cheſter</hi> Ci<g ref="char:EOLhyphen"/>ty, a meſſenger, with a Letter and a Token, of Silk <hi>Stockings, Ribbands, Gloves,</hi> and other fine <hi>Knacks,</hi> to which women, are uſually allured, with many inticing complements, to ſurprize her chaſtity. Sub<g ref="char:EOLhyphen"/>ſcribing himſelfe her humble Servant.</p>
+            <p>But when ſhee ſaw his name at the ſubſcription of the Letter, ſhe (before the meſſengers face) threw the Letter and the Tokens all into the fire with diſdain, And ſent backe the bearer with as much diſtaſte as could be expected.</p>
+            <p>After he received newes of this repulſe, he againe attempted another onſet, to make ſome ſport, And ſent againe a ſecond Meſſenger with other preſents of fine Knacks to the Lady. And becauſe ſhe threw the other into the fire, therefore now hee ſent Crackers Squibs and wild-fire in the Paper with them, (as if be<g ref="char:EOLhyphen"/>cauſe he could not take this Lady by ſtorm, he would try to blow her up.)</p>
+            <p>Theſe preſents being delivered to her, with a let<g ref="char:EOLhyphen"/>ter ſhe opened it in her husbands Sir <hi>Hughes</hi> preſence, and ſeeing <hi>Griffins</hi> name, ſhe again, as before, threw them all into the fire.</p>
+            <p>But the wild fire and crackers flew about the room and put them to a little fright for the preſent.</p>
+            <p>Had hee left off here it had been better, then after fell out more ſad, for Prince <hi>Griffin,</hi> with three or foure more of his Comrades came to the houſe and asked for her, and being denied acceſſe to her, he be<g ref="char:EOLhyphen"/>gan to be ſomething raſh, and uncivill, inſomuch that he provoked the ſervants.</p>
+            <p>And one of Sir <hi>Hugh Caufleys</hi> men, making ſome
+<pb n="3" facs="tcp:161508:3"/>
+               <!-- PDF PAGE 53 -->oppoſition againſt him, Prince <hi>Griffin</hi> drew his ſword and run him into the body therewith: And another of his company (with a Piſtoll) ſhot him: And the man is ſince dead. Since which Prince <hi>Griffin</hi> is fled into <hi>Scotland,</hi> to take ſanctuary in <hi>Edenburgh,</hi> but it is hoped that juſtice will meete with him one way or other; which will be indeavoured by divers Gentle<g ref="char:EOLhyphen"/>men in theſe parts, And by</p>
+            <closer>
+               <dateline>Cheſter City <date>the 4 of March 1647.</date>
+               </dateline>
+               <signed>Your Servant <hi>GEORGE JONES</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the Honourable Houſe of Commons in Parliament Aſſembled.</head>
+            <head type="sub">The Humble Petition of the Collonels, Lieutenant Collonels, Majors, Captains, and other Offi<g ref="char:EOLhyphen"/>cers and Souldiers, under the command of Ma<g ref="char:EOLhyphen"/>jor Generall <hi>Laughorne.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat as they have from the beginning of the late unhappy wars, with conſtant reſolution in their ſeverall capacities, ſerved the Parliament, to the great impairing, if not utter ruine of their private eſtates, frequently expoſed to extraordinary hazards, being ſo farre remote from relief, and receiving leſſe fatisfaction, by way of pay, then any Army
+<pb n="4" facs="tcp:161508:4"/>
+               <!-- PDF PAGE 54 -->in the kingdome, ſo hath it been their con<g ref="char:EOLhyphen"/>tinuall care, to prevent the leaſt jealouſie of diſloyalty to their truſt, to the full ſatisfacti<g ref="char:EOLhyphen"/>on (we hope) of all honeſt and well-affected people. And that now likewiſe they are cal<g ref="char:EOLhyphen"/>led upon to disband, they offer in all humili<g ref="char:EOLhyphen"/>ty, to lay down Armes, upon the conditions propoſed by the Parliament, waving diſputes of your Petitioners merits, ſeeing it hath pleaſed the Lord ſo farre to aſſert the Religi<g ref="char:EOLhyphen"/>on, Laws, and Liberties they firſt engaged for; yet are your Petitioners juſtly aggreev<g ref="char:EOLhyphen"/>ed at malitious aſperſions lately publiſhed, unjuſtly tainting the honour of their Major Generall, and all his Forces, as ready to affiſt and joyne with <hi>Poyer</hi> to maintain the caſtle of Pembrook againſt the Parliament, where<g ref="char:EOLhyphen"/>as a more falſe imputation could not be devi<g ref="char:EOLhyphen"/>ſed, their Major Generall having ſent them expreſſe Order, and the Petitioners reſoluti<g ref="char:EOLhyphen"/>ons being likewiſe ſetled, for preſent ſubmiſ<g ref="char:EOLhyphen"/>ſion to the Orders of disbanding. Your Pe<g ref="char:EOLhyphen"/>titioners humbly deſire your Honours will not permit them to be ſo contumeliouſly tra<g ref="char:EOLhyphen"/>duced, and remain unvindicated, but that M. Joh. Elliot, the profeſſed Author of accuſa<g ref="char:EOLhyphen"/>tion
+<pb n="5" facs="tcp:161508:4"/>
+               <!-- PDF PAGE 54 -->may be enjoyned to juſtifie the ſame, or make your Petitioners reparations, and in the Interim, and untill he make anſwer to what charges of Delinquency, your Petitioners have ready to exhibit, againſt him, for exe<g ref="char:EOLhyphen"/>cuting the commiſſion of Array in Pem<g ref="char:EOLhyphen"/>brookſhire, defrauding this Army of the pro<g ref="char:EOLhyphen"/>viſions ſent them by the Parliament, and by endevouring to defame all thoſe who have ever truely and faithfully ſerved the Parlia<g ref="char:EOLhyphen"/>ment, and other notorious diſ-ſervices to the Parliament. Mr. Elliot may be uncapable to have the cuſtody, or diſpoſe of your petition<g ref="char:EOLhyphen"/>ers Armes, or further proceed in his uſurped Agency, for the Country, and that your Peti<g ref="char:EOLhyphen"/>tioners may be further looked upon, as be<g ref="char:EOLhyphen"/>commeth the Parliament in honour and iu<g ref="char:EOLhyphen"/>ſtice to reflect upon ſuch as have done them ſo faithfull ſervice,</p>
+            <closer>
+               <signed>And your Petitioners ſhall ever pray, &amp;c.
+<list>
+                     <item>Rice Powel,</item>
+                     <item>Tho. Langhorne,</item>
+                     <item>Hugh Phillips,</item>
+                     <item>Hugh Laughorn</item>
+                     <item>Will: Powel</item>
+                     <item>Rowl: Woogan</item>
+                     <item>Ed: Aybonon</item>
+                     <item>Adam Beale,</item>
+                     <item>Philip Bowen,</item>
+                     <item>Rich: Eſmond</item>
+                     <item>Hen: Bowen</item>
+                     <item>Jo. Morgan,</item>
+                     <item>Val: R<gap reason="illegible: bleedthrough" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d</item>
+                     <item>Pat. Cozen</item>
+                     <item>Le: Aſſom,</item>
+                     <item>Ed: Monſell</item>
+                     <item>Jo: Harries</item>
+                     <item>Charles Woogan</item>
+                     <item>Hugh Bowen</item>
+                     <item>Will: Shales</item>
+                     <item>W: Shuttleworth</item>
+                     <item>Mar<gap reason="illegible: bleedthrough" extent="2+ letters">
+                           <desc>••…</desc>
+                        </gap> Goodwin:</item>
+                     <item>Vaugh. Laughorn</item>
+                     <item>Robert Pigget</item>
+                     <item>Marke Bowen</item>
+                     <item>Geo: Keame</item>
+                     <item>Tho: Harlow.</item>
+                     <item>Ed: Williams</item>
+                     <item>Will: Parry</item>
+                     <item>Tho: Talbot</item>
+                     <item>Jo: Davids</item>
+                     <item>Val: Savayle</item>
+                     <item>Hen: Woogan</item>
+                     <item>Jo: Adams</item>
+                     <item>Ja. Carre</item>
+                     <item>Jo: Simonds.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:161508:5"/>
+            <!-- PDF PAGE 55 -->
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>HAving received the incloſed Pe<g ref="char:EOLhyphen"/>tition of the Officers of the For<g ref="char:EOLhyphen"/>ces in South-Wales under Major Gene<g ref="char:EOLhyphen"/>rall <hi>Laughorne.</hi> I could doe no leſſe at their requeſt then preſent the ſame un<g ref="char:EOLhyphen"/>to you, deſiring that you will tender the ſame to the conſideration of the Houſe and that they will take ſome ſpeedy courſe for the granting the Petitioners ſatis<g ref="char:EOLhyphen"/>faction in their juſt deſires, I remain,</p>
+            <closer>
+               <signed>Your Humble Servant, Tho. Fairfax.</signed>
+               <dateline>Queene Street <date>March 4 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
